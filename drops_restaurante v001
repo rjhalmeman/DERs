@@ -1,0 +1,11 @@
+use T1;
+drop table `T1`.`produto_has_sub_produto`;
+drop table `T1`.`produto_has_sub_produto_modo_de_preparo`;
+drop table `T1`.`sub_produto`;
+drop table `T1`.`tipo_de_produto`;
+drop table `T1`.`usuario_has_modulo`;
+drop table `T1`.`modulo`;
+drop table `T1`.`usuario`;
+drop table `T1`.`pessoa`;
+drop table `T1`.`produto`;
+drop table `T1`.`unidade_de_medida`;
